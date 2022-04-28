@@ -1,0 +1,21 @@
+#Complexity Interview Questions#
+
+1) What are the two main measures for the efficiency of an algorithm?
+ 
+ Time and Space (Time refers to the runtime efficiency of the algorithm. Space refers to the amount of memory your alogrithm reuqires)
+ 
+ 2) What is Time Complexity?
+ 
+ Measuring the efficiency of an algorithm by counting the number of key operations.
+ 
+ 3) What is Space complexity?
+ 
+ Measuring efficiency of algorithm by counting maximum memory needed by algorithm
+ 
+ 4) Which of the following does NOT belong to the family of notations?
+ 
+ Big (|><|)
+ 
+ 5) Which of the following describes the ‘worst’, 'Average', 'Best' case scenario?
+
+ Any notation can be used to describe the best case, worst case, or average case. The notations are not tied to any of the cases.

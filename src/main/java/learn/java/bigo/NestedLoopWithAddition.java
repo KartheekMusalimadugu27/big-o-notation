@@ -1,8 +1,6 @@
 package learn.java.bigo;
 
-//n Square
-
-
+//O(n^2)
 public class NestedLoopWithAddition {
 	
 	public static void main(String[] args) {
